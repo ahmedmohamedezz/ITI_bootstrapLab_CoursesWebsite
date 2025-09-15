@@ -7,7 +7,7 @@ The project demonstrates layout design, responsive grids, components, and custom
 
 ## 🚀 Features
 - Responsive design for desktop, tablet, and mobile.  
-- Course cards with descriptions and pricing.  
+- Course cards with descriptions.  
 - FAQ section with accordion (collapsible answers).  
 - Footer with About, Quick Links, and Contact Info.  
 - Smooth navigation and consistent theme.  
@@ -17,8 +17,3 @@ The project demonstrates layout design, responsive grids, components, and custom
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3 / Bootstrap 5**  
-- **JavaScript (vanilla)**  
-
----
-
-## 📂 Project Structure
