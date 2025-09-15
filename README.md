@@ -7,7 +7,7 @@ The project demonstrates layout design, responsive grids, components, and custom
 
 ## 🌐 Live Demo
 Check out the live version here:  
-👉 [Bootstrap Courses Website]([https://your-username.github.io/bootstrap-courses-website/](https://ahmedmohamedezz.github.io/ITI_bootstrapLab_CoursesWebsite/))
+👉 [Bootstrap Courses Website](https://ahmedmohamedezz.github.io/ITI_bootstrapLab_CoursesWebsite/)
 
 ---
 
